@@ -1,0 +1,11 @@
+This is my twitter bot
+Phùng Minh Đức
+Connection established!!
+Error: ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+Phùng Minh Đức
+Connection established!!
+Entered on_direct_message()
+found #dota!
+responding back..
+found #temp!
+responding back...
